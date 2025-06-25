@@ -20,3 +20,6 @@
 🔗 [Plant Care](https://github.com/JW5123/PlantCare)
 #### 3. 翻牌記憶遊戲
 🔗 [Flip Card](https://github.com/JW5123/FlipCard)
+
+## Github Repositories
+🔗 [其他練習專案](https://github.com/JW5123?tab=repositories)
